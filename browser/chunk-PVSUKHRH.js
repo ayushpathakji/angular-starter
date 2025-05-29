@@ -1,0 +1,1 @@
+import{Gb as s,fa as o,lb as i,mb as r,oc as l,yb as a}from"./chunk-7CEJFRHJ.js";var f=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-skill"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,p){n&1&&(i(0,"p"),a(1,"skill works!"),r())},dependencies:[l]});let t=e;return t})();export{f as SkillComponent};

@@ -1,0 +1,1 @@
+var s={application:{name:"angular-starter",angular:"Angular 18.2.1",bootstrap:"Bootstrap 5.3.3",fontawesome:"Font Awesome 6.6.0"},urlNews:"./assets/params/json/mock/trailers.json",urlMovies:"./assets/params/json/mock/movies.json",config:{api:!1,url:"./assets/params/json/crud/"}};export{s as a};

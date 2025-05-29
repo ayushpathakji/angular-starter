@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r}from"./chunk-MNZ62ZOX.mjs";import{R as c}from"./chunk-JKTVEF3F.mjs";var o=class{constructor(){this.api=!1,this.url=""}};var l=(()=>{let t=class t{constructor(){this.config=new o,this.config.api=r.config.api,this.config.url=r.config.url}};t.\u0275fac=function(n){return new(n||t)},t.\u0275prov=c({token:t,factory:t.\u0275fac});let i=t;return i})();export{l as a};

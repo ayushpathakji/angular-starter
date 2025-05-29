@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{$ as o,Db as p,ib as i,jb as r,uc as m,vb as a}from"./chunk-JKTVEF3F.mjs";import"./chunk-5XUXGTUW.mjs";var l=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-experience"]],standalone:!0,features:[p],decls:2,vars:0,template:function(n,c){n&1&&(i(0,"p"),a(1,"experience works!"),r())},dependencies:[m]});let t=e;return t})();export{l as ExperienceComponent};
